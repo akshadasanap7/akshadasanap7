@@ -220,10 +220,3 @@ while(!success){
 <p align="center">
 Keep Learning • Keep Building • Keep Growing 🚀
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/akshadasanap7/akshadasanap7/output/github-contribution-grid-snake.svg">
-
-</p>
