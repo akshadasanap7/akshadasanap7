@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshada Sanap</h1>
 
 <h3 align="center">
-Electronics & Computer Engineering Student | Java Developer | MERN Stack Developer | IoT Enthusiast | Aspiring Software Engineer
+Electronics & Computer Engineering Student | Python Developer | Machine Learning |Artifical Intelligence| MERN Stack Developer | IoT Enthusiast | Aspiring Software Engineer
 </h3>
 
 <p align="center">
